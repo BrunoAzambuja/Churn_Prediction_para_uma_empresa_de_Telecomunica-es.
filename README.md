@@ -1,1 +1,1 @@
-# Churn_prediction_para_uma_empresa_de_telecomunicacoes.
+# Churn_prediction_para_uma_empresa_de_telecomunicacoes
